@@ -1,0 +1,150 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+/* Header Styling */
+header {
+    background: linear-gradient(to right, #2c3e50, #34495e);
+    color: white;
+    padding: 20px 0;
+    font-family: 'Georgia', serif;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.header-left, .header-right {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-left img, .header-right img {
+    height: 200px;  /* Increased the height */
+    width: auto;
+    max-width: 250px; /* Adjusted for better fit */
+}
+
+.header-middle {
+    flex: 3;
+    text-align: center;
+}
+
+.header-middle h2, 
+.header-middle h3, 
+.header-middle h1 {
+    margin: 5px 0;
+}
+
+.college-name {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.address {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.department {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Apply the header font style to "Coding and Decoding" text */
+.coding-decoding {
+    font-family: 'Georgia', serif;
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.event-name {
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.event-date {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Event Links Styling */
+.event-links {
+    text-align: center;
+    padding: 30px;
+    background-color: #ffdab9; /* Light peach color */
+}
+
+.event-links h2 {
+    font-size: 24px;
+    color: #2c3e50;
+    font-family: 'Georgia', serif;
+}
+
+.event-links ul {
+    list-style: none;
+    padding: 0;
+}
+
+.event-links li {
+    margin: 15px 0;
+}
+
+/* Styling for links with visited, unvisited, and active states */
+.event-links a {
+    text-decoration: none;
+    font-size: 20px;
+    color: purple;
+    padding: 10px 20px;
+    border-radius: 8px;
+    transition: 0.3s;
+    font-weight: bold;
+}
+
+/* Unvisited Link */
+.event-links a:link {
+    color: purple;
+}
+
+/* Visited Link */
+.event-links a:visited {
+    color: darkred;
+}
+
+/* Hover Effect */
+.event-links a:hover {
+    background: #1f618d;
+    color: #f1c40f;
+}
+
+/* Active Link */
+.event-links a:active {
+    color: #e74c3c;
+    background: yellow;
+}
+
+/* Footer Styling */
+footer {
+    text-align: center;
+    padding: 15px;
+    background: #2c3e50;
+    color: white;
+    font-size: 14px;
+    font-family: 'Georgia', serif;
+}
