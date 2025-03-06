@@ -1,0 +1,23 @@
+java
+Set1
+1. https://www.hackerrank.com/challenges/java-regex/problem?isFullScreen=true
+2. https://www.hackerrank.com/challenges/java-string-tokens/problem?isFullScreen=true
+set2
+3. https://www.hackerrank.com/challenges/tag-content-extractor/problem?isFullScreen=true
+4. https://www.hackerrank.com/challenges/java-1d-array/problem?isFullScreen=true
+
+Python
+Set1
+1. https://www.hackerrank.com/challenges/decorators-2-name-directory/problem?isFullScreen=true
+2. https://www.hackerrank.com/challenges/matrix-script/problem?isFullScreen=true
+
+Set2
+3. https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true
+4. https://www.hackerrank.com/challenges/find-angle/problem?isFullScreen=true
+
+C
+1. https://www.hackerrank.com/challenges/querying-the-document/problem?isFullScreen=true
+2. https://www.hackerrank.com/challenges/dynamic-array-in-c/problem?isFullScreen=true
+
+3.https://www.hackerrank.com/challenges/dynamic-array-in-c/problem?isFullScreen=true
+4.https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem?isFullScreen=true
